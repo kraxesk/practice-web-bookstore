@@ -9,7 +9,6 @@
 ![Database](/db.PNG)
 
 ## How to run:
-Download [bookstore](https://github.com/weixiong15/PHP_Basic_BookStore_Website/tree/master/bookstore) folder and upload these file to your server or you can download an application called
-[XAMPP](https://www.apachefriends.org/index.html) or other. After, you need to import [database.sql](https://github.com/weixiong15/PHP_Basic_BookStore_Website/blob/master/bookstore/database.sql) to your server/XAMPP 
-first.
+Загрузите [bookstore]https://github.com/MaksGigov/Case4/edit/main/PHP-Bookstore-Website-Example-master/bookstore)папку и загрузите эти файлы на свой сервер, или вы можете загрузить приложение под названием
+[XAMPP](https://www.apachefriends.org/index.html)или другое. После этого вам необходимо импортировать [database.sql](https://github.com/MaksGigov/PHP_Basic_BookStore_Website/blob/bookstore/database.sql) сначала на ваш сервер/XAMPP.
  
