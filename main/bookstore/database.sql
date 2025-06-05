@@ -32,7 +32,7 @@ CREATE TABLE Customer (
     CONSTRAINT FOREIGN KEY (UserID) REFERENCES Users(UserID) ON DELETE SET NULL ON UPDATE CASCADE
 );
 
-CREATE TABLE `Order`(
+CREATE TABLE Order(
 	OrderID int not null AUTO_INCREMENT,
     CustomerID int,
     BookID varchar(50),
